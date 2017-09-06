@@ -1,6 +1,3 @@
-# Auto24
-Koolitöö
-
 Hindamine 
 
 Projekt on leheloomine a la "Auto 24"
