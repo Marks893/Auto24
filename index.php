@@ -1,7 +1,7 @@
-<?php
+<?php include 'resources/header.php'; ?>
 
-echo 'auto24';
+<div class="container">
+    <p>hello world</p>
+</div>
 
-
-
-
+<?php include 'resources/footer.php' ?>
