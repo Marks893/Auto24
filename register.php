@@ -2,6 +2,12 @@
 
 require 'autoload.php';
 
+if (isset($_POST) && !empty($_POST)) {
+    $username = filter_input(INPUT_POST, 'email');
+    $pass = filter_input(INPUT_POST, 'password');
+    $passConfirm = filter_input(INPUT_POST, 'passwordConfirm');
+}
+
 ?>
 
 <?php _getHeader([ 'PAGE_TITLE' => _translate('register.title') ]); ?>
