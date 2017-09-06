@@ -1,5 +1,10 @@
 <?php
 
 return [
-    'home.header' => 'english header'
+    'header' => 'Auto24',
+    'header.home' => 'Home',
+    'Search' => 'Search',
+    'Car' => 'Car',
+    'Motorbike' => 'Motorbike'
+
 ];

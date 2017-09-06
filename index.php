@@ -3,7 +3,7 @@
 <?php _getHeader(); ?>
 
 <div class="container">
-    <p><?php echo _translate('home.header'); ?></p>
+    <p><?php echo _translate('header'); ?></p>
 </div>
 
 <?php _getFooter(); ?>

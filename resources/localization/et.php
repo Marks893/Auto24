@@ -1,5 +1,11 @@
 <?php
 
 return [
-    'home.header' => 'eesti keelne pealkiri'
+    'header' => 'Auto24',
+    'header.home' => 'Avaleht',
+    'Search' => 'Otsi',
+    'Car' => 'Auto',
+    'Motorbike' => 'Mootorrattas'
+
+
 ];
