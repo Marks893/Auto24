@@ -1,7 +1,10 @@
-<?php include 'resources/header.php'; ?>
+<?php require 'utils.php'; ?>
+
+<?php _getHeader(); ?>
 
 <div class="container">
     <p>hello world</p>
 </div>
 
-<?php include 'resources/footer.php' ?>
+<?php _getFooter(); ?>
+
