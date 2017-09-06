@@ -5,15 +5,18 @@ Andmed andmebaasis (Mysql), rakendus kasutab PHP ja kujundus Bootstrap raamistik
 
 ######### HINNE 3 ############
 0. Admin keskkond | Baasi logimine ning Kasutajate haldus
-1. CRUD "auto" (1 pilt - 3 suurust, näiteks max width 150px, 430px ja 1024px)
+1. CRUD "auto" (1 pilt - 3 suurust, näiteks max width 150px, 430px ja 1024px) - marcus
 2. CRUD "omadusi"
-3. Mitme lehe fuktsionaalsus (pagination)
-4. Otsida märksõna järgi (otsib "auto" nimest)
-5. Otsida omaduste järgi (omadusi peaks olema vähemalt 5)
-6. Mitmekeelne (vähemalt 2) Default inglise keel
-7. Mobiilivaade
-8. Kasutaja tegevuste tagasiside (NB! NOT default js alert) 
-9. Dokumentatsioon (Päevik - Kuupäev, Tegevus, Tegija, Aeg; Projekti kirjeldus- Ülevaade projektist ja võimalustest ning Mysql kirjeldus; Koodi kommenteerimine, "ilus" kood)
+3. Mitme lehe fuktsionaalsus (pagination) - marcus
+4. Otsida märksõna järgi (otsib "auto" nimest) -mihkel
+5. Otsida omaduste järgi (omadusi peaks olema vähemalt 5) -mihkel
+6. Mitmekeelne (vähemalt 2) Default inglise keel  -georg
+7. Mobiilivaade - georg
+8. Kasutaja tegevuste tagasiside (NB! NOT default js alert) -marcus
+9. Dokumentatsioon (Päevik - Kuupäev, Tegevus, Tegija, Aeg; Projekti kirjeldus- Ülevaade projektist ja võimalustest ning Mysql kirjeldus; Koodi kommenteerimine, "ilus" kood) -georg
+
+Ma (Georg) esitlen ka xd.
+algul vaatame kuidas 3 tehtud ja siis teeme edasi kriteeriume.
 
 ######### HINNE 4 ############
 0. Täidetud hinde 3 KÕIK kriteeriumid
