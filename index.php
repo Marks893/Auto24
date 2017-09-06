@@ -1,4 +1,4 @@
-<?php require 'utils.php'; ?>
+<?php require 'autoload.php'; ?>
 
 <?php _getHeader(); ?>
 
