@@ -4,16 +4,29 @@ class Language
 {
     public static function english()
     {
-        return 'EN';
+        return 1;
     }
 
     public static function estonian()
     {
-        return 'ET';
+        return 2;
+    }
+
+    public static function default()
+    {
+        return self::english();
     }
 
     public static function current()
     {
-        return self::english();
+        if (!isset($_SESSION['language']))
+            $_SESSION['language'] = self::default();
+
+        return $_SESSION['language'];
+    }
+
+    public static function set($lang)
+    {
+        $_SESSION['language'] = $lang;
     }
 }
