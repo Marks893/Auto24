@@ -1,6 +1,6 @@
 <?php
 
-$users = "CREATE TABLE `tak15_penza`.`users` ( 
+$users = "CREATE TABLE `TAK15_Penza`.`users` ( 
     `id` INT NOT NULL AUTO_INCREMENT , 
     `email` VARCHAR(255) NOT NULL , 
     `password` VARCHAR(255) NOT NULL , 

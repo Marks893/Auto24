@@ -1,8 +1,8 @@
 <?php
 
 return [
-    'name' => 'tak15_penza',
-    'user' => 'root',
+    'name' => 'TAK15_Penza',
+    'user' => 'TAK15_Penza',
     'password' => '',
     'host' => '127.0.0.1'
 ];
